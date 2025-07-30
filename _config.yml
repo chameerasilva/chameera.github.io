@@ -22,8 +22,8 @@ repository               : "chameerasilva.github.io/chameera.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Chameera Silva1"
+  avatar           : "profile.JPG"
+  name             : "Chameera Silva"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
