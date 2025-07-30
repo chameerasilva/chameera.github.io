@@ -23,11 +23,11 @@ repository               : "chameerasilva.github.io/chameera.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Chameera Silva"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "The University of Memphis"
   uri              : # URL
   email            : "none@example.org" 
 
