@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Earth Science, The University of Memphis, 2016 (expected)
+* M.Phil. in Jekyll, The University of Sri Jayewardenepura, 2021
+* B.Sc. in Physics, The University of Sri Jayewardenepura, 2018
 
 Work experience
 ======
