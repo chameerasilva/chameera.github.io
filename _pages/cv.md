@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Earth Science, The University of Memphis, 2016 (expected)
+* Ph.D in Earth Science, The University of Memphis, 2026 (expected)
 * M.Phil. in Jekyll, The University of Sri Jayewardenepura, 2021
 * B.Sc. in Physics, The University of Sri Jayewardenepura, 2018
 
