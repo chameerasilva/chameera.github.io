@@ -1,11 +1,11 @@
 ---
 title: "Continental rifts losing driving forces can still complete breakup"
-collection: publications
-category: ournal papers
+collection: in review
+category: journal papers
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about how active continental rift system would response to changes in plate boundary forces to determine its end stage.'
 date: 2009-10-01
-venue: 'cientific reports'
+venue: 'scientific reports'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
